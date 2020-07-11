@@ -3,7 +3,6 @@
 ## Team
 * Jose Reyes
 * Thomas Bahng
-* Sean Dunn
 * Randall Taylor
 * Patricia Mills
 
